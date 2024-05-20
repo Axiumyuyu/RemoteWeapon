@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RemoteWeapon">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemoteWeapon</output-path>
+    <root id="archive" name="RemoteWeapon.jar">
+      <element id="module-output" name="RemoteWeapon" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

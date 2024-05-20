@@ -1,0 +1,7 @@
+name: RemoteWeapon
+version: '${project.version}'
+main: org.axiumyu.RemoteWeapon
+api-version: '1.20'
+prefix: RemoteWeapon
+load: STARTUP
+depend: [NBTAPI]

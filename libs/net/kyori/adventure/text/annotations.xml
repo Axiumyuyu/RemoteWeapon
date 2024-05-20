@@ -1,0 +1,8 @@
+<root>
+    <item name='net.kyori.adventure.text.TextComponentImpl NEWLINE'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+    <item name='net.kyori.adventure.text.TextComponentImpl SPACE'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+</root>
